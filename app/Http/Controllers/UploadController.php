@@ -29,6 +29,7 @@ class UploadController extends Controller
             'updated_at' => now(),
         ]);
 
+        // This storage can be an S3 bucket
         Storage::disk('local')->put('public', $file);
 
         return redirect('/');

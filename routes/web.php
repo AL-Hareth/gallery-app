@@ -2,12 +2,8 @@
 
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\UploadController;
-//use App\Http\Controllers\UploadController;
-use App\Models\User;
 use Illuminate\Foundation\Application;
-use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
-use Illuminate\Support\Facades\Storage;
 use Inertia\Inertia;
 
 /*
