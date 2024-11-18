@@ -8,7 +8,7 @@ $ composer install
 $ npm install
 ```
 
-![Image from url]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://imgs.search.brave.com/nVPt_FFadeuDJOhgRslHnSesRik1gq8k3ePPgMMt0tc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAwLzc3LzUxLzgx/LzM2MF9GXzc3NTE4/MTM2X0Y4OEkwdjNS/Mm1ac0tFZ3h4WE1j/NGlxWGxPaks4T0xF/LmpwZw) "a title")
+![Image from url](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Felis_catus-cat_on_snow.jpg/269px-Felis_catus-cat_on_snow.jpg "a title")
 
 ## how to run this app
 - create a database file in the `database` directory called gallery.sqlite
